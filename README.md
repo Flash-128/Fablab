@@ -1,14 +1,15 @@
 ## DREAMS 
 
-#team:
+# team:
 1.	I wish I can play basketball with my friends.
 2.	I wish I can skateboard in the street.
 3.	I wish I can watch movies originally released during the epidemic.
 4.	I wish I can get back to school.
 5.	I wish I can go to the newly opened Hunan restaurant for dinner.
 6.	I wish I can take a trip abroad.
-#others:
-7. I wish I can swim in shanghaitech¡¯s natatorium.
+
+# others:
+7. I wish I can swim in shanghaitechÂ¡Â¯s natatorium.
 8. I wish I can visit my grandparents.
 9. I wish I can hang out with my friends.
 10. I wish I can go to the concert.
@@ -30,18 +31,19 @@
 
 ## COMPLAINTS
 
-#team:
+# team:
 1.	I hate to stay at home all day.
-2.	I hate I can¡¯t have my hair cut.
-3.	I hate I can¡¯t go out to walk my dog.
-4.	I hate I have to wear a mask and can¡¯t take a fresh breath.
+2.	I hate I canÂ¡Â¯t have my hair cut.
+3.	I hate I canÂ¡Â¯t go out to walk my dog.
+4.	I hate I have to wear a mask and canÂ¡Â¯t take a fresh breath.
 5.	I hate when I go home, I have to disinfect with alcohol.
 6.	I hate I have to eat a repetitive dish every day.
-#others:
+
+# others:
 7.	I hate I waste a lot of time all day.
 8.	I hate to take online courses.
 9.	I hate I can only play computer games.
-10.	I hate that I can¡¯t go to the library.
+10.	I hate that I canÂ¡Â¯t go to the library.
 11.	I hate that I have to listern to my parents all the time.
 12.	I hate to watch computer screen all day.
 13.	I hate that I need to pick up packages by myself.
